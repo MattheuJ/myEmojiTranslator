@@ -1,0 +1,19 @@
+#promptBox{
+    background-color: grey;
+    color: blue;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    text-align: center;
+    max-height: 400px;
+}
+
+#body{
+    background-color: black;
+}
+
+#prompt{
+    font-size: 25px;
+
+}
